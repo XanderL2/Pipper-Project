@@ -4,3 +4,6 @@
 [submodule "Backend/microservices/messages"]
 	path = Backend/microservices/messages
 	url = https://github.com/XanderL2/Pipper-Message-Service.git
+[submodule "Backend/microservices/posts"]
+	path = Backend/microservices/posts
+	url = https://github.com/XanderL2/Pipper-Post-Service.git
